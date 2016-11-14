@@ -12,7 +12,7 @@ from posts.models import Post
 # Create your tests here.
 
 
-class PostModelTestCase(TestCase):
+class PostViewTestCase(TestCase):
     def create_post(self, title='This title'):
         return Post.objects.create(title=title)
 
