@@ -14,4 +14,4 @@ A guide for Simple & Straightforward Tests in Django
 
 [7 - Authenticating User Tests](./test_views_advanced_user.py)
 
-[8 - CRUD Test in Django Rest Framework)[./test-api-views.py)
+[8 - CRUD Test in Django Rest Framework](./test-api-views.py)
