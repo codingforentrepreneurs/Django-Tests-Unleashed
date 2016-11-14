@@ -1,8 +1,8 @@
 ![Django Tests Unleashed Logo](https://cfe-static.s3.amazonaws.com/media/django-tests-unleashed/images/unleasing_django_tests.png)
 
 # Django Tests Unleashed
-
 A guide for Simple & Straightforward Tests in Django
+
 ====
 
 ### Lecture Code
